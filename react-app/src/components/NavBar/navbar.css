@@ -1,0 +1,41 @@
+.gray-left-border {
+	border-left: 2px solid #dcd9d9;
+}
+
+.full-height {
+	height: 100vh;
+}
+
+.col-direction {
+	flex-direction: column;
+}
+
+.size-50 {
+	height: 50px;
+	width: 50px;
+}
+
+.border-3 {
+	border-width: 3px;
+}
+
+button:hover .hover {
+	fill: white;
+}
+
+.fw-bold {
+	font-weight: bold;
+}
+
+.fs-18 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+.search-form {
+	border: 2px solid #dcd9d9;
+	padding: 15px;
+	border-radius: 10px;
+	overflow-y: scroll;
+	max-height: 250px;
+}
